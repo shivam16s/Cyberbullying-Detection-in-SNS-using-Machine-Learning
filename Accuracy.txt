@@ -1,0 +1,12 @@
+HATE SPEECH ON TWITTER:
+****************************************
+Algorithm / Model Used: Support Vector Machine
+
+Accuracy score: 0.961
+
+****************************************
+Wikipedia Personal attacks:
+****************************************
+Algorithm / Model Used: Random Forest Classifier
+
+Accuracy score: 0.716
